@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(161, 158, 255);
+}
+#container{
+    min-height: 92vh;
+    min-width: 100vw;
+    background-color: rgb(161, 158, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#click{
+   margin-left: 45%;
+   height: 5vh;
+   width: 10vw;
+   margin-top: 10px;
+}
+
+.popupdiv{
+    color: black;
+    background-color: rgb(247, 247, 176);
+    display: flex;
+    height: 85px;
+    width: 215px;
+    justify-content: center;
+    align-items: center;
+    border: 7px solid black;
+    margin: auto;
+}
